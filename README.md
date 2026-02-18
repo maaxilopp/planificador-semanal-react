@@ -1,6 +1,7 @@
 # Primera app con react, planificador semanal
 
-[![GitHub](https://img.shields.io/badge/GitHub-Maximiliano_López-181717?logo=github)](https://github.com/maaxilopp)
+Autor: [![Maximiliano López](https://img.shields.io/badge/GitHub-Maximiliano_López-87CEEB?logo=github&logoColor=white)](https://github.com/maaxilopp)
+
 
 ## Tecnologías utilizadas
 - React.js
